@@ -7,3 +7,7 @@ Adding some new lines
 ## SUBHEADER
 
 adding even more new lines
+
+### Small header 1
+
+Hello World, I am Sam
